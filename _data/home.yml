@@ -9,31 +9,23 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
+  - title: 코딩
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: 저는 c 언어, Java script, python등 여러가지 코딩언어를 사용할 수 있습니다.
 
-  - title: Project 2
+  - title: 영어
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: 고등학교에서 대학 수준의 영어와 외국인과의 소통 및 영어로 글 작성이 가능합니다.
 
-  - title: Project 3
+  - title: 드론 조작
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: 한국 교통 공사에서 취득한 드론 조종 자격증을 보유하고 있습니다.
 
-  - title: Project 4
+  - title: pc 성능 확인과 조립
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+    desc: pc 성능 확인과 직접 부품을 구입하여서 조립할 수 있습닏
+    highlight: (그렇게 잘하지는 못함)
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
