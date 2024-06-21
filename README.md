@@ -1,5 +1,6 @@
+https://github.com/Eustiana07/.github.io 깃허브
 //http://jekyllthemes.org/themes/moonwalk/를 사용
-https://eustiana07.github.io/.github.io/
+https://eustiana07.github.io/.github.io/ 웹사이트
 ## moonwalk - a fast and minimalistic blog theme with clean dark mode
 
 <img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/moonwalk.png" />
