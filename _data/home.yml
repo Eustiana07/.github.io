@@ -39,18 +39,6 @@ old_project_entries:
     url: https://www.humangous.co
     desc: pc조립이나 수리하는 사람, 게임 개발자, 컴퓨터 프로그래머
    
-footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
-
-  - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
